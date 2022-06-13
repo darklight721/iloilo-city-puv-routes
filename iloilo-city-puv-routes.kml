@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Iloilo City PUV Routes</name>
-    <description/>
+    <description><![CDATA[Latest PUV/Jeepney routes as of 2022.<br>Reference: https://ltfrb.gov.ph/wp-content/uploads/2022/02/MC-2022-024.pdf]]></description>
     <Style id="line-006064-5000-normal">
       <LineStyle>
         <color>ff646000</color>
@@ -91,138 +91,6 @@
         <styleUrl>#line-1A237E-5000-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="line-558B2F-5000-normal">
-      <LineStyle>
-        <color>ff2f8b55</color>
-        <width>5</width>
-      </LineStyle>
-    </Style>
-    <Style id="line-558B2F-5000-highlight">
-      <LineStyle>
-        <color>ff2f8b55</color>
-        <width>7.5</width>
-      </LineStyle>
-    </Style>
-    <StyleMap id="line-558B2F-5000">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-558B2F-5000-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-558B2F-5000-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="line-817717-5000-normal">
-      <LineStyle>
-        <color>ff177781</color>
-        <width>5</width>
-      </LineStyle>
-    </Style>
-    <Style id="line-817717-5000-highlight">
-      <LineStyle>
-        <color>ff177781</color>
-        <width>7.5</width>
-      </LineStyle>
-    </Style>
-    <StyleMap id="line-817717-5000">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-817717-5000-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-817717-5000-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="line-880E4F-5000-normal">
-      <LineStyle>
-        <color>ff4f0e88</color>
-        <width>5</width>
-      </LineStyle>
-    </Style>
-    <Style id="line-880E4F-5000-highlight">
-      <LineStyle>
-        <color>ff4f0e88</color>
-        <width>7.5</width>
-      </LineStyle>
-    </Style>
-    <StyleMap id="line-880E4F-5000">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-880E4F-5000-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-880E4F-5000-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="line-E65100-5000-normal">
-      <LineStyle>
-        <color>ff0051e6</color>
-        <width>5</width>
-      </LineStyle>
-    </Style>
-    <Style id="line-E65100-5000-highlight">
-      <LineStyle>
-        <color>ff0051e6</color>
-        <width>7.5</width>
-      </LineStyle>
-    </Style>
-    <StyleMap id="line-E65100-5000">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-E65100-5000-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-E65100-5000-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="line-F9A825-5000-normal">
-      <LineStyle>
-        <color>ff25a8f9</color>
-        <width>5</width>
-      </LineStyle>
-    </Style>
-    <Style id="line-F9A825-5000-highlight">
-      <LineStyle>
-        <color>ff25a8f9</color>
-        <width>7.5</width>
-      </LineStyle>
-    </Style>
-    <StyleMap id="line-F9A825-5000">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-F9A825-5000-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-F9A825-5000-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="line-FFD600-5000-normal">
-      <LineStyle>
-        <color>ff00d6ff</color>
-        <width>5</width>
-      </LineStyle>
-    </Style>
-    <Style id="line-FFD600-5000-highlight">
-      <LineStyle>
-        <color>ff00d6ff</color>
-        <width>7.5</width>
-      </LineStyle>
-    </Style>
-    <StyleMap id="line-FFD600-5000">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-FFD600-5000-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-FFD600-5000-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="line-4E342E-5000-normal">
       <LineStyle>
         <color>ff2e344e</color>
@@ -243,6 +111,28 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#line-4E342E-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-558B2F-5000-normal">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-558B2F-5000-highlight">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-558B2F-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-558B2F-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-558B2F-5000-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="line-673AB7-5000-normal">
@@ -267,114 +157,26 @@
         <styleUrl>#line-673AB7-5000-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="line-AFB42B-5000-normal">
+    <Style id="line-817717-5000-normal">
       <LineStyle>
-        <color>ff2bb4af</color>
+        <color>ff177781</color>
         <width>5</width>
       </LineStyle>
     </Style>
-    <Style id="line-AFB42B-5000-highlight">
+    <Style id="line-817717-5000-highlight">
       <LineStyle>
-        <color>ff2bb4af</color>
+        <color>ff177781</color>
         <width>7.5</width>
       </LineStyle>
     </Style>
-    <StyleMap id="line-AFB42B-5000">
+    <StyleMap id="line-817717-5000">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-AFB42B-5000-normal</styleUrl>
+        <styleUrl>#line-817717-5000-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-AFB42B-5000-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="line-C2185B-5000-normal">
-      <LineStyle>
-        <color>ff5b18c2</color>
-        <width>5</width>
-      </LineStyle>
-    </Style>
-    <Style id="line-C2185B-5000-highlight">
-      <LineStyle>
-        <color>ff5b18c2</color>
-        <width>7.5</width>
-      </LineStyle>
-    </Style>
-    <StyleMap id="line-C2185B-5000">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-C2185B-5000-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-C2185B-5000-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="line-FBC02D-5000-normal">
-      <LineStyle>
-        <color>ff2dc0fb</color>
-        <width>5</width>
-      </LineStyle>
-    </Style>
-    <Style id="line-FBC02D-5000-highlight">
-      <LineStyle>
-        <color>ff2dc0fb</color>
-        <width>7.5</width>
-      </LineStyle>
-    </Style>
-    <StyleMap id="line-FBC02D-5000">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-FBC02D-5000-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-FBC02D-5000-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="line-FF5252-5000-normal">
-      <LineStyle>
-        <color>ff5252ff</color>
-        <width>5</width>
-      </LineStyle>
-    </Style>
-    <Style id="line-FF5252-5000-highlight">
-      <LineStyle>
-        <color>ff5252ff</color>
-        <width>7.5</width>
-      </LineStyle>
-    </Style>
-    <StyleMap id="line-FF5252-5000">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-FF5252-5000-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-FF5252-5000-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="line-FFEA00-5000-normal">
-      <LineStyle>
-        <color>ff00eaff</color>
-        <width>5</width>
-      </LineStyle>
-    </Style>
-    <Style id="line-FFEA00-5000-highlight">
-      <LineStyle>
-        <color>ff00eaff</color>
-        <width>7.5</width>
-      </LineStyle>
-    </Style>
-    <StyleMap id="line-FFEA00-5000">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-FFEA00-5000-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-FFEA00-5000-highlight</styleUrl>
+        <styleUrl>#line-817717-5000-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="line-87CEAC-5000-normal">
@@ -397,6 +199,28 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#line-87CEAC-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-880E4F-5000-normal">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-880E4F-5000-highlight">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-880E4F-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-880E4F-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-880E4F-5000-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="line-9FA8DA-5000-normal">
@@ -443,6 +267,28 @@
         <styleUrl>#line-A1C2FA-5000-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="line-AFB42B-5000-normal">
+      <LineStyle>
+        <color>ff2bb4af</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-AFB42B-5000-highlight">
+      <LineStyle>
+        <color>ff2bb4af</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-AFB42B-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-AFB42B-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-AFB42B-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="line-B2EBF2-5000-normal">
       <LineStyle>
         <color>fff2ebb2</color>
@@ -485,6 +331,28 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#line-BCAAA4-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-5000-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-C2185B-5000-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-C2185B-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-5000-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="line-C5E1A5-5000-normal">
@@ -531,11 +399,143 @@
         <styleUrl>#line-CE93D8-5000-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="line-E65100-5000-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-5000-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-F9A825-5000-normal">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-F9A825-5000-highlight">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-F9A825-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F9A825-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F9A825-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FBC02D-5000-normal">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FBC02D-5000-highlight">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FBC02D-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FBC02D-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FBC02D-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-5000-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-5000-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFD600-5000-normal">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FFD600-5000-highlight">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FFD600-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFD600-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFD600-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFEA00-5000-normal">
+      <LineStyle>
+        <color>ff00eaff</color>
+        <width>5</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FFEA00-5000-highlight">
+      <LineStyle>
+        <color>ff00eaff</color>
+        <width>7.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FFEA00-5000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFEA00-5000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFEA00-5000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Folder>
       <name>PUV Routes</name>
       <Placemark>
-        <name>Bo. Obrero - Iloilo City Proper</name>
-        <description>Bo. Obrero Multipurpose Gym, Everlasting St., Margarita St., Rizal St. (Lapuz), Quirino Bridge, Iznart St., JM Basa St., Guanco St., Rizal St. (Ma. Clara), Iznart St., Aldeguer St., JM Basa St., Iznart St., Quirino Bridge, Rizal St. (Lapuz), Margarita St., Everlasting St., Bo. Obrero Multipurpose Gym</description>
+        <name>1 | Bo. Obrero - Iloilo City Proper</name>
+        <description><![CDATA[Bo. Obrero Multipurpose Gym, Everlasting St., Margarita St., Rizal St. (Lapuz), Quirino Bridge, Iznart St., JM Basa St., Guanco St., Rizal St. (Ma. Clara), Iznart St., Aldeguer St., JM Basa St., Iznart St., Quirino Bridge, Rizal St. (Lapuz), Margarita St., Everlasting St., Bo. Obrero Multipurpose Gym<br><br>[OLD ROUTE: Bo. Obrero Iloilo City]]]></description>
         <styleUrl>#line-880E4F-5000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -872,8 +872,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Calaparan Calumpang - Iloilo City Proper</name>
-        <description>Total Gas Sta. (Yulo), Baluarte Calumpang-Villa-Oton Blvd., Rizal St., Ledesma St., Iznart St., Rizal St. (Ma. Clara)., Ortiz St., JM Basa St., Rizal St., Iznart St., Ledesma St., Rizal St., Infante St., Baluarte Calumpang-Villa-Oton Blvd., Total Gas Sta. (Yulo)</description>
+        <name>2 | Calaparan Calumpang - Iloilo City Proper</name>
+        <description><![CDATA[Total Gas Sta. (Yulo), Baluarte Calumpang-Villa-Oton Blvd., Rizal St., Ledesma St., Iznart St., Rizal St. (Ma. Clara)., Ortiz St., JM Basa St., Rizal St., Iznart St., Ledesma St., Rizal St., Infante St., Baluarte Calumpang-Villa-Oton Blvd., Total Gas Sta. (Yulo)<br><br>[OLD ROUTE: Calaparan Calumpang Beach]]]></description>
         <styleUrl>#line-E65100-5000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -1018,41 +1018,45 @@
             122.55882,10.69328,0
             122.55885,10.69329,0
             122.55892,10.69331,0
-            122.55897,10.69324,0
-            122.559,10.69321,0
-            122.55902,10.6932,0
-            122.55904,10.69318,0
-            122.55912,10.69314,0
-            122.56013,10.69291,0
-            122.56016,10.6929,0
-            122.56038,10.69285,0
-            122.56073,10.69276,0
-            122.56134,10.69261,0
-            122.5616,10.69255,0
-            122.56162,10.69255,0
-            122.56184,10.6925,0
-            122.56203,10.69245,0
-            122.5624,10.69236,0
-            122.5627,10.69229,0
-            122.56312,10.6922,0
-            122.56326,10.69218,0
-            122.5636,10.6921,0
-            122.56448,10.6919,0
-            122.56475,10.69184,0
-            122.56499,10.69178,0
-            122.56523,10.69175,0
-            122.56529,10.69175,0
-            122.56551,10.69174,0
-            122.56553,10.69174,0
-            122.5656,10.69174,0
-            122.56572,10.69174,0
-            122.56583,10.69175,0
-            122.56629,10.69178,0
-            122.56701,10.69184,0
-            122.56726,10.69186,0
-            122.56744,10.69187,0
-            122.56784,10.69189,0
-            122.56795,10.69191,0
+            122.56007,10.69366,0
+            122.56018,10.6937,0
+            122.56175,10.69419,0
+            122.56206,10.69428,0
+            122.56328,10.69466,0
+            122.56427,10.69496,0
+            122.56481,10.69513,0
+            122.56528,10.69527,0
+            122.56639,10.69561,0
+            122.56699,10.6958,0
+            122.56787,10.69608,0
+            122.56906,10.6964,0
+            122.5691,10.69619,0
+            122.5691,10.6959,0
+            122.56909,10.69511,0
+            122.56908,10.69488,0
+            122.56909,10.69463,0
+            122.5691,10.69367,0
+            122.5691,10.69309,0
+            122.56913,10.69215,0
+            122.56912,10.69215,0
+            122.56912,10.69214,0
+            122.56911,10.69214,0
+            122.5691,10.69214,0
+            122.5691,10.69213,0
+            122.56909,10.69213,0
+            122.56908,10.69212,0
+            122.56908,10.69211,0
+            122.56907,10.69211,0
+            122.56907,10.6921,0
+            122.56906,10.69209,0
+            122.56906,10.69208,0
+            122.56906,10.69207,0
+            122.56906,10.69206,0
+            122.56906,10.69205,0
+            122.56907,10.69205,0
+            122.56907,10.69204,0
+            122.56907,10.69203,0
+            122.56908,10.69203,0
             122.56908,10.69202,0
             122.56911,10.692,0
             122.56913,10.692,0
@@ -1263,8 +1267,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Ungka - Iloilo City Proper via CPU</name>
-        <description>Ungka Terminal, Diversion Rd., Lopez Jaena St., Rizal St. (Jaro Plaza), E. Lopez St., Luna St., Bonifacio Dr., Iznart St., JM Basa St., Fort San Pedro Dr., Parola Wharf, Fort San Pedro Dr., Burgos St., Sto. Rosario St., Zamora St., JM Basa St., Iznart St., Bonifacio Dr., Luna St., Huervana St., Rizal St., E. Lopez St., Rizal St. (Jaro Plaza), Washington St., Democracia St., Simon Ledesma St., Lopez Jaena St., Diversion Rd., Ungka Terminal</description>
+        <name>3 | Ungka - Iloilo City Proper via CPU</name>
+        <description><![CDATA[Ungka Terminal, Diversion Rd., Lopez Jaena St., Rizal St. (Jaro Plaza), E. Lopez St., Luna St., Bonifacio Dr., Iznart St., JM Basa St., Fort San Pedro Dr., Parola Wharf, Fort San Pedro Dr., Burgos St., Sto. Rosario St., Zamora St., JM Basa St., Iznart St., Bonifacio Dr., Luna St., Huervana St., Rizal St., E. Lopez St., Rizal St. (Jaro Plaza), Washington St., Democracia St., Simon Ledesma St., Lopez Jaena St., Diversion Rd., Ungka Terminal<br><br>[OLD ROUTE: Ungka ITGSI via Jaro CPU; Jaro CPU Iloilo City]]]></description>
         <styleUrl>#line-F9A825-5000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -1880,8 +1884,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Ungka - Iloilo City via Diversion/Festive Walk Transport Hub</name>
-        <description>Ungka Terminal, Diversion Rd., Airport Spur Rd., Megaworld Blvd., Festive Walk Transport Hub, Taft St., Diversion Rd., Infante St., Rizal St., Infante St., Diversion Rd., Ungka Terminal</description>
+        <name>4 | Ungka - Iloilo City via Diversion/Festive Walk Transport Hub</name>
+        <description><![CDATA[Ungka Terminal, Diversion Rd., Airport Spur Rd., Megaworld Blvd., Festive Walk Transport Hub, Taft St., Diversion Rd., Infante St., Rizal St., Infante St., Diversion Rd., Ungka Terminal<br><br>[OLD ROUTE: Ungka ITGSI Diversion]]]></description>
         <styleUrl>#line-FFD600-5000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -2333,8 +2337,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Festive Walk Transport Hub - Iloilo City Proper via SM City</name>
-        <description>Festive Walk Transport Hub, SM City, Diversion Rd., Gen. Luna St., Mabini St., Delgado St., Quezon St., Ledesma St., Iznart St., Rizal St., Ortiz St., JM Basa St., Rizal St., Iznart St., Ledesma St., Quezon St., Delgado St., Mabini St., Gen. Luna St., Diversion Rd., SM City</description>
+        <name>5 | Festive Walk Transport Hub - Iloilo City Proper via SM City</name>
+        <description><![CDATA[Festive Walk Transport Hub, SM City, Diversion Rd., Gen. Luna St., Mabini St., Delgado St., Quezon St., Ledesma St., Iznart St., Rizal St., Ortiz St., JM Basa St., Rizal St., Iznart St., Ledesma St., Quezon St., Delgado St., Mabini St., Gen. Luna St., Diversion Rd., SM City<br><br>[OLD ROUTE: SM - City Proper - Plaza Libertad]]]></description>
         <styleUrl>#line-817717-5000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -2347,20 +2351,46 @@
             122.54763,10.71814,0
             122.54773,10.71831,0
             122.54784,10.71855,0
-            122.54807,10.71857,0
-            122.5485,10.71861,0
-            122.54875,10.71863,0
-            122.54918,10.71868,0
-            122.54983,10.71874,0
-            122.54999,10.71876,0
-            122.55008,10.71877,0
-            122.55014,10.71878,0
-            122.55021,10.7188,0
-            122.5504,10.71886,0
-            122.55058,10.71892,0
-            122.55103,10.71909,0
-            122.55139,10.71923,0
-            122.55199,10.71946,0
+            122.54778,10.71854,0
+            122.54807,10.71918,0
+            122.54833,10.71973,0
+            122.54885,10.72086,0
+            122.5491,10.72144,0
+            122.54915,10.72162,0
+            122.54915,10.72186,0
+            122.54912,10.72203,0
+            122.54906,10.72221,0
+            122.54899,10.72245,0
+            122.54896,10.72255,0
+            122.54893,10.72268,0
+            122.5489,10.72283,0
+            122.54891,10.72303,0
+            122.54894,10.72319,0
+            122.54902,10.7235,0
+            122.54907,10.72371,0
+            122.54914,10.72402,0
+            122.54915,10.72406,0
+            122.54917,10.72416,0
+            122.54926,10.7245,0
+            122.54929,10.72458,0
+            122.54932,10.72463,0
+            122.54933,10.72466,0
+            122.54936,10.72469,0
+            122.54954,10.7249,0
+            122.54975,10.72453,0
+            122.55,10.72408,0
+            122.55016,10.72375,0
+            122.55052,10.72304,0
+            122.55036,10.72295,0
+            122.55015,10.7231,0
+            122.5499,10.72289,0
+            122.55015,10.7231,0
+            122.55036,10.72295,0
+            122.55052,10.72304,0
+            122.55105,10.72188,0
+            122.55131,10.72131,0
+            122.55148,10.72094,0
+            122.5518,10.72025,0
             122.55212,10.7195,0
             122.55219,10.71935,0
             122.55225,10.71919,0
@@ -2645,69 +2675,117 @@
             122.5518,10.7092,0
             122.55177,10.7094,0
             122.55173,10.70967,0
-            122.55172,10.70996,0
-            122.55172,10.7101,0
-            122.55172,10.71026,0
-            122.55172,10.7104,0
-            122.55173,10.71055,0
-            122.55174,10.71069,0
-            122.55175,10.71089,0
-            122.55176,10.71098,0
-            122.55177,10.71109,0
-            122.55179,10.71124,0
-            122.55182,10.71143,0
-            122.55188,10.7117,0
-            122.55191,10.7118,0
-            122.55193,10.71188,0
-            122.55226,10.71314,0
-            122.5523,10.71332,0
-            122.55258,10.71427,0
-            122.55278,10.71422,0
-            122.55294,10.71496,0
-            122.55299,10.71519,0
-            122.55303,10.71544,0
-            122.55307,10.71572,0
-            122.5531,10.71601,0
-            122.55312,10.71626,0
-            122.55311,10.71651,0
-            122.55311,10.71681,0
-            122.5531,10.71704,0
-            122.55307,10.7173,0
-            122.55304,10.71756,0
-            122.553,10.71782,0
-            122.55295,10.71807,0
-            122.55291,10.71825,0
-            122.55286,10.71842,0
-            122.5528,10.71862,0
-            122.55271,10.71887,0
-            122.55262,10.71913,0
-            122.55243,10.71962,0
-            122.55225,10.71954,0
-            122.55212,10.7195,0
-            122.55219,10.71935,0
-            122.55225,10.71919,0
-            122.5523,10.71909,0
-            122.55243,10.71883,0
-            122.55243,10.71881,0
-            122.55258,10.71833,0
-            122.5527,10.71783,0
-            122.55278,10.71738,0
-            122.55282,10.71679,0
-            122.55281,10.71614,0
-            122.55277,10.7158,0
-            122.55277,10.71577,0
-            122.55273,10.71555,0
-            122.55261,10.71504,0
-            122.55228,10.71519,0
-            122.55204,10.7149,0
-            122.55192,10.7146,0
-            122.55176,10.71395,0
+            122.55159,10.70964,0
+            122.55101,10.70938,0
+            122.55055,10.70918,0
+            122.55024,10.70903,0
+            122.55008,10.70896,0
+            122.55005,10.70894,0
+            122.55001,10.70892,0
+            122.54968,10.70873,0
+            122.54951,10.70862,0
+            122.54935,10.7085,0
+            122.54913,10.70831,0
+            122.5491,10.70833,0
+            122.54907,10.70834,0
+            122.54905,10.70835,0
+            122.54903,10.70835,0
+            122.54901,10.70836,0
+            122.54899,10.70836,0
+            122.54896,10.70836,0
+            122.54894,10.70835,0
+            122.54892,10.70835,0
+            122.5489,10.70834,0
+            122.54888,10.70833,0
+            122.54886,10.70832,0
+            122.54883,10.70829,0
+            122.54881,10.70827,0
+            122.5488,10.70826,0
+            122.54879,10.70824,0
+            122.54878,10.70822,0
+            122.54877,10.7082,0
+            122.54877,10.70818,0
+            122.54876,10.70815,0
+            122.54876,10.70813,0
+            122.54876,10.70811,0
+            122.54877,10.70809,0
+            122.54877,10.70807,0
+            122.54878,10.70804,0
+            122.54879,10.70802,0
+            122.5488,10.70801,0
+            122.54881,10.70798,0
+            122.54871,10.7079,0
+            122.54853,10.70772,0
+            122.54847,10.70765,0
+            122.54788,10.70701,0
+            122.54787,10.707,0
+            122.54778,10.70691,0
+            122.54763,10.70678,0
+            122.54724,10.70649,0
+            122.5467,10.70609,0
+            122.54651,10.70595,0
+            122.54646,10.70591,0
+            122.54606,10.70559,0
+            122.54601,10.70556,0
+            122.54573,10.70533,0
+            122.54534,10.70506,0
+            122.54526,10.705,0
+            122.54505,10.70482,0
+            122.5447,10.70454,0
+            122.54462,10.70447,0
+            122.54427,10.70415,0
+            122.54415,10.70406,0
+            122.54412,10.70405,0
+            122.54405,10.70402,0
+            122.54392,10.70424,0
+            122.54386,10.70435,0
+            122.5438,10.70444,0
+            122.54365,10.70468,0
+            122.54361,10.70475,0
+            122.54341,10.70507,0
+            122.54338,10.70511,0
+            122.54337,10.70512,0
+            122.54322,10.70544,0
+            122.54319,10.70553,0
+            122.54314,10.70565,0
+            122.543,10.70601,0
+            122.54299,10.70605,0
+            122.54296,10.70615,0
+            122.54294,10.7062,0
+            122.54263,10.70737,0
+            122.54273,10.70753,0
+            122.54283,10.70768,0
+            122.54306,10.7081,0
+            122.54324,10.70856,0
+            122.54349,10.70941,0
+            122.5435,10.70948,0
+            122.54352,10.70957,0
+            122.54355,10.7098,0
+            122.54365,10.71017,0
+            122.54368,10.71027,0
+            122.54383,10.71063,0
+            122.54397,10.71098,0
+            122.54401,10.71108,0
+            122.54429,10.71164,0
+            122.54503,10.7132,0
+            122.54513,10.71337,0
+            122.54541,10.71388,0
+            122.54553,10.7141,0
+            122.54579,10.71467,0
+            122.5459,10.71489,0
+            122.54597,10.71514,0
+            122.54607,10.71566,0
+            122.54621,10.7161,0
+            122.54648,10.71666,0
+            122.54654,10.71676,0
+            122.54666,10.71693,0
+            122.54698,10.71735,0
           </coordinates>
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Lanit - SM City via NIA/Jalandoni</name>
-        <description>Tiu Cho Teg-Ana Ros Foundation Integrated School, Iloilo Radial Bypass Rd., Circumferential (C-1) Rd., Tacas-Quintin Salas Rd., MacArthur Dr., Simon Ledesma St., Fajardo St., Libertad St., E. Lopez St., Jalandoni St. (Jaro), Diversion Rd., SM City, Gaisano Iloilo City Ctr., Diversion Rd., Jalandoni St. (Jaro), Commision Civil St., Rizal St. (Jaro Plaza), Washington St., MacArthur Dr., Tacas-Quintin Salas Rd., Circumferential (C-1) Rd., Iloilo Radial Bypass Rd., Tiu Cho Teg-Ana Ros Foundation Integrated School</description>
+        <name>6 | Lanit - SM City via NIA/Jalandoni</name>
+        <description><![CDATA[Tiu Cho Teg-Ana Ros Foundation Integrated School, Iloilo Radial Bypass Rd., Circumferential (C-1) Rd., Tacas-Quintin Salas Rd., MacArthur Dr., Simon Ledesma St., Fajardo St., Libertad St., E. Lopez St., Jalandoni St. (Jaro), Diversion Rd., SM City, Gaisano Iloilo City Ctr., Diversion Rd., Jalandoni St. (Jaro), Commision Civil St., Rizal St. (Jaro Plaza), Washington St., MacArthur Dr., Tacas-Quintin Salas Rd., Circumferential (C-1) Rd., Iloilo Radial Bypass Rd., Tiu Cho Teg-Ana Ros Foundation Integrated School<br><br>[OLD ROUTE: SM - Lanit Jaro]]]></description>
         <styleUrl>#line-558B2F-5000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -3294,8 +3372,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Compania - Iloilo City Proper</name>
-        <description>Compania St., Avanceña St., San Juan St., Compania St., Timawa St., Delgado St., Iznart St., Ledesma St., Valeria St., Delgado St., Timawa St., Compania St.</description>
+        <name>7 | Compania - Iloilo City Proper</name>
+        <description><![CDATA[Compania St., Avanceña St., San Juan St., Compania St., Timawa St., Delgado St., Iznart St., Ledesma St., Valeria St., Delgado St., Timawa St., Compania St.<br><br>[OLD ROUTE: Molo Timawa - Compania - Fundidor]]]></description>
         <styleUrl>#line-097138-5000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -3466,6 +3544,43 @@
             122.56906,10.69659,0
             122.56907,10.69658,0
             122.5691,10.69651,0
+            122.56915,10.69643,0
+            122.56986,10.69557,0
+            122.57049,10.69475,0
+            122.5705,10.69474,0
+            122.57101,10.69392,0
+            122.57154,10.69363,0
+            122.57162,10.69358,0
+            122.57172,10.69352,0
+            122.57203,10.69331,0
+            122.57257,10.69292,0
+            122.57178,10.69216,0
+            122.57173,10.6921,0
+            122.57169,10.69205,0
+            122.57166,10.69198,0
+            122.57165,10.69198,0
+            122.57066,10.69206,0
+            122.57001,10.69206,0
+            122.56999,10.69206,0
+            122.56979,10.69213,0
+            122.56919,10.69212,0
+            122.56919,10.69213,0
+            122.56918,10.69213,0
+            122.56918,10.69214,0
+            122.56917,10.69214,0
+            122.56916,10.69214,0
+            122.56915,10.69214,0
+            122.56915,10.69215,0
+            122.56914,10.69215,0
+            122.56913,10.69215,0
+            122.5691,10.69309,0
+            122.5691,10.69367,0
+            122.56909,10.69463,0
+            122.56908,10.69488,0
+            122.56909,10.69511,0
+            122.5691,10.6959,0
+            122.5691,10.69619,0
+            122.56906,10.6964,0
             122.56904,10.6965,0
             122.56787,10.69617,0
             122.56786,10.69656,0
@@ -3555,8 +3670,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Parola - Infante via Super Loop</name>
-        <description>Parola Wharf, Zamora Ext., Zamora St., Rizal St., Quezon St., De Leon St., Jalandoni St., Rizal St., Infante St., Rizal St., Zamora St., Zamora Ext., Parola Wharf</description>
+        <name>8 | Parola - Infante via Super Loop</name>
+        <description><![CDATA[Parola Wharf, Zamora Ext., Zamora St., Rizal St., Quezon St., De Leon St., Jalandoni St., Rizal St., Infante St., Rizal St., Zamora St., Zamora Ext., Parola Wharf<br><br>[OLD ROUTE: Parola - Robinson - Super]]]></description>
         <styleUrl>#line-006064-5000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -3813,7 +3928,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Mohon - Infante</name>
+        <name>9 | Mohon - Infante</name>
         <description>Mohon Terminal, Osmeña St., Jocson St., Avanceña St., Locsin St., MH del Pilar St., Infante St., Rizal St., Infante St., MH del Pilar St., San Pedro St., Avanceña St., Jocson St., Osmeña St., Mohon Terminal</description>
         <styleUrl>#line-01579B-5000</styleUrl>
         <LineString>
@@ -4023,6 +4138,157 @@
             122.55649,10.69368,0
             122.55658,10.69369,0
             122.55663,10.69369,0
+            122.55673,10.69368,0
+            122.55694,10.69364,0
+            122.55707,10.6936,0
+            122.55737,10.69352,0
+            122.55762,10.69346,0
+            122.55774,10.69344,0
+            122.5578,10.69342,0
+            122.55854,10.69329,0
+            122.55872,10.69328,0
+            122.55882,10.69328,0
+            122.55885,10.69329,0
+            122.55892,10.69331,0
+            122.56007,10.69366,0
+            122.56018,10.6937,0
+            122.56175,10.69419,0
+            122.56206,10.69428,0
+            122.56328,10.69466,0
+            122.56427,10.69496,0
+            122.56481,10.69513,0
+            122.56479,10.69462,0
+            122.56479,10.69442,0
+            122.56477,10.69378,0
+            122.56476,10.69331,0
+            122.56523,10.69335,0
+            122.56525,10.69335,0
+            122.56531,10.69336,0
+            122.56536,10.69336,0
+            122.56541,10.69337,0
+            122.56546,10.69337,0
+            122.56555,10.69338,0
+            122.56558,10.69338,0
+            122.56574,10.6934,0
+            122.56592,10.69341,0
+            122.566,10.69342,0
+            122.5661,10.69343,0
+            122.56634,10.69345,0
+            122.56677,10.69348,0
+            122.56736,10.69352,0
+            122.56791,10.69356,0
+            122.56844,10.69361,0
+            122.5691,10.69367,0
+            122.5691,10.69309,0
+            122.56913,10.69215,0
+            122.56912,10.69215,0
+            122.56912,10.69214,0
+            122.56911,10.69214,0
+            122.5691,10.69214,0
+            122.5691,10.69213,0
+            122.56909,10.69213,0
+            122.56908,10.69212,0
+            122.56908,10.69211,0
+            122.56907,10.69211,0
+            122.56907,10.6921,0
+            122.56906,10.69209,0
+            122.56906,10.69208,0
+            122.56906,10.69207,0
+            122.56906,10.69206,0
+            122.56906,10.69205,0
+            122.56907,10.69205,0
+            122.56907,10.69204,0
+            122.56907,10.69203,0
+            122.56908,10.69203,0
+            122.56908,10.69202,0
+            122.56911,10.692,0
+            122.56913,10.692,0
+            122.56914,10.692,0
+            122.56915,10.692,0
+            122.56916,10.692,0
+            122.56917,10.692,0
+            122.56918,10.69201,0
+            122.56919,10.69201,0
+            122.56919,10.69202,0
+            122.5692,10.69202,0
+            122.5692,10.69203,0
+            122.56975,10.69202,0
+            122.56979,10.69203,0
+            122.56999,10.69206,0
+            122.57001,10.69206,0
+            122.57066,10.69206,0
+            122.57165,10.69198,0
+            122.57166,10.69198,0
+            122.57251,10.69183,0
+            122.57357,10.69168,0
+            122.57372,10.69166,0
+            122.57388,10.6918,0
+            122.57336,10.69232,0
+            122.57293,10.69273,0
+            122.57273,10.69287,0
+            122.57264,10.69299,0
+            122.57257,10.69292,0
+            122.57178,10.69216,0
+            122.57173,10.6921,0
+            122.57169,10.69205,0
+            122.57166,10.69198,0
+            122.57165,10.69198,0
+            122.57066,10.69206,0
+            122.57001,10.69206,0
+            122.56999,10.69206,0
+            122.56979,10.69213,0
+            122.56919,10.69212,0
+            122.56919,10.69213,0
+            122.56918,10.69213,0
+            122.56918,10.69214,0
+            122.56917,10.69214,0
+            122.56916,10.69214,0
+            122.56915,10.69214,0
+            122.56915,10.69215,0
+            122.56914,10.69215,0
+            122.56913,10.69215,0
+            122.5691,10.69309,0
+            122.5691,10.69367,0
+            122.56844,10.69361,0
+            122.56791,10.69356,0
+            122.56736,10.69352,0
+            122.56677,10.69348,0
+            122.56634,10.69345,0
+            122.5661,10.69343,0
+            122.566,10.69342,0
+            122.56592,10.69341,0
+            122.56574,10.6934,0
+            122.56558,10.69338,0
+            122.56555,10.69338,0
+            122.56546,10.69337,0
+            122.56541,10.69337,0
+            122.56536,10.69336,0
+            122.56531,10.69336,0
+            122.56525,10.69335,0
+            122.56523,10.69335,0
+            122.56476,10.69331,0
+            122.56477,10.69378,0
+            122.56479,10.69442,0
+            122.56479,10.69462,0
+            122.56481,10.69513,0
+            122.56481,10.69523,0
+            122.56425,10.69505,0
+            122.56327,10.69475,0
+            122.56226,10.69444,0
+            122.56175,10.69429,0
+            122.56139,10.69417,0
+            122.56123,10.69412,0
+            122.56034,10.69384,0
+            122.55981,10.69367,0
+            122.55889,10.69336,0
+            122.55881,10.69335,0
+            122.55872,10.69334,0
+            122.55863,10.69335,0
+            122.55855,10.69336,0
+            122.55835,10.69339,0
+            122.55809,10.69344,0
+            122.55799,10.69346,0
+            122.55739,10.6936,0
             122.55665,10.69377,0
             122.55607,10.69388,0
             122.55567,10.69409,0
@@ -4209,8 +4475,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Tagbak - Iloilo City Proper</name>
-        <description>Tagbak Terminal, MacArthur Dr., Simon Ledesma St., Rizal Plaza St., Commission Civil St., Del Carmen St., Luna St., Bonifacio Dr., Gen. Luna St., Jalandoni St., Ledesma St., Mabini St., De Leon St., Quezon St., Rizal St., Valeria St., Gen. Luna St., Muelle Loney St., Rizal St., Luna St., E. Lopez St., Del Carmen St., Commission Civil St., Rizal St. (Jaro Plaza), Washington St., MacArthur Dr., Tagbak Terminal</description>
+        <name>10 | Tagbak - Iloilo City Proper</name>
+        <description><![CDATA[Tagbak Terminal, MacArthur Dr., Simon Ledesma St., Rizal Plaza St., Commission Civil St., Del Carmen St., Luna St., Bonifacio Dr., Gen. Luna St., Jalandoni St., Ledesma St., Mabini St., De Leon St., Quezon St., Rizal St., Valeria St., Gen. Luna St., Muelle Loney St., Rizal St., Luna St., E. Lopez St., Del Carmen St., Commission Civil St., Rizal St. (Jaro Plaza), Washington St., MacArthur Dr., Tagbak Terminal<br><br>[OLD ROUTE: Jaro Liko Tagbak Terminal; Jaro Liko NFA]]]></description>
         <styleUrl>#line-1A237E-5000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -4450,32 +4716,21 @@
             122.56175,10.69804,0
             122.56175,10.69788,0
             122.56173,10.69726,0
-            122.56172,10.69681,0
-            122.56172,10.69667,0
-            122.56172,10.69559,0
-            122.56172,10.69487,0
-            122.56175,10.69429,0
-            122.56175,10.69419,0
-            122.56206,10.69428,0
-            122.56328,10.69466,0
-            122.56427,10.69496,0
-            122.56481,10.69513,0
-            122.56479,10.69462,0
-            122.56479,10.69442,0
-            122.56477,10.69378,0
-            122.56476,10.69331,0
-            122.56523,10.69335,0
-            122.56525,10.69335,0
-            122.56531,10.69336,0
-            122.56536,10.69336,0
-            122.56541,10.69337,0
-            122.56546,10.69337,0
-            122.56555,10.69338,0
-            122.56558,10.69338,0
-            122.56574,10.6934,0
-            122.56592,10.69341,0
-            122.566,10.69342,0
-            122.5661,10.69343,0
+            122.56289,10.69741,0
+            122.56328,10.69746,0
+            122.56372,10.69753,0
+            122.56383,10.69755,0
+            122.56429,10.69761,0
+            122.5644,10.69763,0
+            122.56479,10.69768,0
+            122.56537,10.69775,0
+            122.56586,10.69781,0
+            122.56642,10.69788,0
+            122.56639,10.69626,0
+            122.56638,10.69571,0
+            122.56639,10.69561,0
+            122.56636,10.69439,0
+            122.56636,10.69394,0
             122.56634,10.69345,0
             122.56629,10.69178,0
             122.56701,10.69184,0
@@ -4483,55 +4738,68 @@
             122.56744,10.69187,0
             122.56784,10.69189,0
             122.56795,10.69191,0
-            122.56795,10.69193,0
-            122.56794,10.69251,0
-            122.56793,10.69294,0
-            122.56791,10.69356,0
-            122.56789,10.69402,0
-            122.56789,10.69441,0
-            122.56789,10.69483,0
-            122.56787,10.69608,0
-            122.56787,10.69617,0
-            122.56786,10.69656,0
-            122.56781,10.69785,0
-            122.5678,10.69809,0
-            122.56779,10.6991,0
-            122.56777,10.69939,0
-            122.56771,10.70082,0
-            122.5677,10.70125,0
-            122.5677,10.7013,0
-            122.56771,10.70146,0
-            122.5679,10.7015,0
-            122.56813,10.70155,0
-            122.56823,10.70158,0
-            122.56833,10.70163,0
-            122.5684,10.70171,0
-            122.56846,10.70168,0
-            122.56885,10.70157,0
-            122.56895,10.70155,0
-            122.56898,10.70154,0
-            122.56902,10.70153,0
-            122.56902,10.70152,0
-            122.56903,10.70152,0
-            122.56903,10.70151,0
-            122.56903,10.7015,0
-            122.56904,10.7015,0
-            122.56904,10.70149,0
-            122.56905,10.70148,0
-            122.56906,10.70148,0
-            122.56906,10.70147,0
-            122.56907,10.70147,0
-            122.56908,10.70146,0
-            122.56909,10.70146,0
-            122.5691,10.70146,0
-            122.56911,10.70146,0
-            122.56912,10.70146,0
-            122.56913,10.70146,0
-            122.56914,10.70146,0
-            122.56915,10.70146,0
-            122.56916,10.70146,0
-            122.56916,10.70147,0
-            122.56917,10.70147,0
+            122.56908,10.69202,0
+            122.56911,10.692,0
+            122.56913,10.692,0
+            122.56914,10.692,0
+            122.56915,10.692,0
+            122.56916,10.692,0
+            122.56917,10.692,0
+            122.56918,10.69201,0
+            122.56919,10.69201,0
+            122.56919,10.69202,0
+            122.5692,10.69202,0
+            122.5692,10.69203,0
+            122.56921,10.69204,0
+            122.56921,10.69205,0
+            122.56921,10.69206,0
+            122.56921,10.69207,0
+            122.56921,10.69208,0
+            122.56921,10.69209,0
+            122.56921,10.6921,0
+            122.5692,10.69211,0
+            122.5692,10.69212,0
+            122.56919,10.69212,0
+            122.56919,10.69213,0
+            122.56918,10.69213,0
+            122.56918,10.69214,0
+            122.56917,10.69214,0
+            122.56916,10.69214,0
+            122.56915,10.69214,0
+            122.56915,10.69215,0
+            122.56914,10.69215,0
+            122.56913,10.69215,0
+            122.5691,10.69309,0
+            122.5691,10.69367,0
+            122.56909,10.69463,0
+            122.56908,10.69488,0
+            122.56909,10.69511,0
+            122.5691,10.6959,0
+            122.5691,10.69619,0
+            122.56906,10.6964,0
+            122.56915,10.69643,0
+            122.56924,10.69646,0
+            122.56921,10.69654,0
+            122.5692,10.69655,0
+            122.56918,10.69659,0
+            122.56917,10.69662,0
+            122.56915,10.69667,0
+            122.56914,10.69673,0
+            122.56913,10.69684,0
+            122.56912,10.69695,0
+            122.56915,10.69781,0
+            122.56914,10.69795,0
+            122.56914,10.69797,0
+            122.56914,10.69819,0
+            122.56916,10.69914,0
+            122.56907,10.69914,0
+            122.56916,10.69914,0
+            122.56911,10.69931,0
+            122.56911,10.70009,0
+            122.56911,10.70096,0
+            122.5691,10.70129,0
+            122.56915,10.7014,0
+            122.56917,10.70146,0
             122.56918,10.70148,0
             122.56919,10.70148,0
             122.56919,10.70149,0
@@ -4726,8 +4994,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>La Paz - Iloilo City Proper via ISATU</name>
-        <description>Baldoza Terminal, Lopez Jaena St. (La Paz), Jereos St., Javellana Ext., Commission Civil St., Burgos St., Huervana St., Rizal St., Luna St., Bonifacio Dr., Gen. Luna St., Jalandoni St., De Leon St., Fuentes St., Ledesma St., Iznart St., Rizal St., Gen. Hughes St., Burgos St. (City Proper), Sto. Rosario St., Zamora St., JM Basa St., Iznart St., Bonifacio Dr., Luna St., Huervana St., Lopez Jaena St., Baldoza Terminal</description>
+        <name>11 | La Paz - Iloilo City Proper via ISATU</name>
+        <description><![CDATA[Baldoza Terminal, Lopez Jaena St. (La Paz), Jereos St., Javellana Ext., Commission Civil St., Burgos St., Huervana St., Rizal St., Luna St., Bonifacio Dr., Gen. Luna St., Jalandoni St., De Leon St., Fuentes St., Ledesma St., Iznart St., Rizal St., Gen. Hughes St., Burgos St. (City Proper), Sto. Rosario St., Zamora St., JM Basa St., Iznart St., Bonifacio Dr., Luna St., Huervana St., Lopez Jaena St., Baldoza Terminal<br><br>[OLD ROUTE: La Paz - La Granja; La Paz - Ticud/Baldoza]]]></description>
         <styleUrl>#line-673AB7-5000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -4944,55 +5212,19 @@
             122.56699,10.6958,0
             122.56787,10.69608,0
             122.56906,10.6964,0
-            122.5691,10.69619,0
-            122.5691,10.6959,0
-            122.56909,10.69511,0
-            122.56908,10.69488,0
-            122.56909,10.69463,0
-            122.5691,10.69367,0
-            122.5691,10.69309,0
-            122.56913,10.69215,0
-            122.56912,10.69215,0
-            122.56912,10.69214,0
-            122.56911,10.69214,0
-            122.5691,10.69214,0
-            122.5691,10.69213,0
-            122.56909,10.69213,0
-            122.56908,10.69212,0
-            122.56908,10.69211,0
-            122.56907,10.69211,0
-            122.56907,10.6921,0
-            122.56906,10.69209,0
-            122.56906,10.69208,0
-            122.56906,10.69207,0
-            122.56906,10.69206,0
-            122.56906,10.69205,0
-            122.56907,10.69205,0
-            122.56907,10.69204,0
-            122.56907,10.69203,0
-            122.56908,10.69203,0
-            122.56908,10.69202,0
-            122.56911,10.692,0
-            122.56913,10.692,0
-            122.56914,10.692,0
-            122.56915,10.692,0
-            122.56916,10.692,0
-            122.56917,10.692,0
-            122.56918,10.69201,0
-            122.56919,10.69201,0
-            122.56919,10.69202,0
-            122.5692,10.69202,0
-            122.5692,10.69203,0
-            122.56975,10.69202,0
-            122.56979,10.69203,0
-            122.56999,10.69206,0
-            122.57001,10.69206,0
-            122.57066,10.69206,0
-            122.57165,10.69198,0
-            122.57166,10.69198,0
-            122.57251,10.69183,0
-            122.57357,10.69168,0
-            122.57372,10.69166,0
+            122.56915,10.69643,0
+            122.56986,10.69557,0
+            122.57049,10.69475,0
+            122.5705,10.69474,0
+            122.57101,10.69392,0
+            122.57154,10.69363,0
+            122.57162,10.69358,0
+            122.57172,10.69352,0
+            122.57203,10.69331,0
+            122.57257,10.69292,0
+            122.57273,10.69287,0
+            122.57293,10.69273,0
+            122.57336,10.69232,0
             122.57388,10.6918,0
             122.5743,10.69143,0
             122.5748,10.69106,0
@@ -5159,8 +5391,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Mandurriao - Molo via Festive Walk Transport Hub</name>
-        <description>Mandurriao Plaza, Abeto St., Megaworld Blvd., Festive Walk Transport Hub, Airport Spur Rd., Diversion Rd., Pison Loop (Seda), Diversion Rd., MH del Pilar St., Sen Ganzon Rotonda, MH del Pilar St., Diversion Rd., Gaisano Iloilo City Ctr., Diversion Rd., Taft St., Abeto St., Mandurriao Plaza</description>
+        <name>12 | Mandurriao - Molo via Festive Walk Transport Hub</name>
+        <description><![CDATA[Mandurriao Plaza, Abeto St., Megaworld Blvd., Festive Walk Transport Hub, Airport Spur Rd., Diversion Rd., Pison Loop (Seda), Diversion Rd., MH del Pilar St., Sen Ganzon Rotonda, MH del Pilar St., Diversion Rd., Gaisano Iloilo City Ctr., Diversion Rd., Taft St., Abeto St., Mandurriao Plaza<br><br>[OLD ROUTE: Molo - Mandurriao]]]></description>
         <styleUrl>#line-4E342E-5000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -5676,8 +5908,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Hibao-an - Iloilo City Proper via Tabucan/Festive Walk Transport Hub</name>
-        <description>Hibao-an Terminal, Guzman St., R. Mapa St., Pison Loop (Seda), R. Mapa St., Carpenter Br., Locsin St., MH del Pilar St., Gen. Luna St., Jalandoni St., Ledesma St., Iznart St., Rizal St., Ortiz St., JM Basa St., Burgos St., Rizal St., Iznart St., Ledesma St., Jalandoni St., Gen. Luna St., MH del Pilar St., San Pedro St., Locsin St., Carpenter Br., R. Mapa St., Oñate St., Guzman St., Hibao-an Terminal</description>
+        <name>13 | Hibao-an - Iloilo City Proper via Tabucan/Festive Walk Transport Hub</name>
+        <description><![CDATA[Hibao-an Terminal, Guzman St., R. Mapa St., Pison Loop (Seda), R. Mapa St., Carpenter Br., Locsin St., MH del Pilar St., Gen. Luna St., Jalandoni St., Ledesma St., Iznart St., Rizal St., Ortiz St., JM Basa St., Burgos St., Rizal St., Iznart St., Ledesma St., Jalandoni St., Gen. Luna St., MH del Pilar St., San Pedro St., Locsin St., Carpenter Br., R. Mapa St., Oñate St., Guzman St., Hibao-an Terminal<br><br>[OLD ROUTE: Mandurriao Hibao-an Pavia via Savannah; SM City Mandurriao via Festive Walk]]]></description>
         <styleUrl>#line-C2185B-5000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -6427,8 +6659,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Hibao-an - Jaro via Abeto/Western/Festive Walk Transport Hub</name>
-        <description>Hibao-an Terminal, Guzman St., Abeto St,. Megaworld Blvd., Festive Walk Transport Hub, Taft St., El-98 St., Rizal St. (Jaro Plaza), Jalandoni St. (Jaro), Seminario St., Claudio St., Jaro Market Rd., El-98 St., Taft St., Megaworld Blvd., Festive Walk Transport Hub, Abeto St., Guzman St., Hibao-an Terminal</description>
+        <name>14 | Hibao-an - Jaro via Abeto/Western/Festive Walk Transport Hub</name>
+        <description><![CDATA[Hibao-an Terminal, Guzman St., Abeto St,. Megaworld Blvd., Festive Walk Transport Hub, Taft St., El-98 St., Rizal St. (Jaro Plaza), Jalandoni St. (Jaro), Seminario St., Claudio St., Jaro Market Rd., El-98 St., Taft St., Megaworld Blvd., Festive Walk Transport Hub, Abeto St., Guzman St., Hibao-an Terminal<br><br>[OLD ROUTE: Jaro Plaza - Mandurriao]]]></description>
         <styleUrl>#line-FF5252-5000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -6802,8 +7034,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Molo - Iloilo City Proper via Baluarte Loop</name>
-        <description>Locsin St. (Molo Plaza), Baluarte Calumpang-Villa-Oton Blvd., Rizal St., Ledesma St., Iznart St., Rizal St., Ortiz St., JM Basa St., Burgos St., Rizal St., Iznart St., Ledesma St., Rizal St., Baluarte Calumpang-Villa-Oton Blvd., Locsin St., MH del Pilar St., San Pedro St.</description>
+        <name>15 | Molo - Iloilo City Proper via Baluarte Loop</name>
+        <description><![CDATA[Locsin St. (Molo Plaza), Baluarte Calumpang-Villa-Oton Blvd., Rizal St., Ledesma St., Iznart St., Rizal St., Ortiz St., JM Basa St., Burgos St., Rizal St., Iznart St., Ledesma St., Rizal St., Baluarte Calumpang-Villa-Oton Blvd., Locsin St., MH del Pilar St., San Pedro St.<br><br>[OLD ROUTE: Molo Baluarte]]]></description>
         <styleUrl>#line-FBC02D-5000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -7074,9 +7306,49 @@
             122.54445,10.69599,0
             122.54488,10.69626,0
             122.54491,10.69629,0
-            122.54481,10.69637,0
-            122.54467,10.69663,0
-            122.54425,10.69743,0
+            122.54513,10.69642,0
+            122.54521,10.69647,0
+            122.54538,10.69657,0
+            122.5456,10.6967,0
+            122.54619,10.69705,0
+            122.54691,10.69746,0
+            122.54724,10.69766,0
+            122.54749,10.69779,0
+            122.54755,10.69782,0
+            122.54756,10.69782,0
+            122.54797,10.69809,0
+            122.54866,10.69849,0
+            122.54917,10.69877,0
+            122.54939,10.69888,0
+            122.54952,10.69896,0
+            122.54953,10.699,0
+            122.54953,10.69903,0
+            122.54953,10.69904,0
+            122.54952,10.69907,0
+            122.54951,10.69911,0
+            122.5495,10.69914,0
+            122.54948,10.69916,0
+            122.54947,10.69919,0
+            122.54942,10.69924,0
+            122.5493,10.69923,0
+            122.54887,10.69916,0
+            122.54851,10.6991,0
+            122.54764,10.69893,0
+            122.54733,10.69889,0
+            122.54731,10.69888,0
+            122.5472,10.69887,0
+            122.54689,10.6988,0
+            122.5466,10.69876,0
+            122.54659,10.69876,0
+            122.54652,10.69874,0
+            122.54626,10.69868,0
+            122.54609,10.69863,0
+            122.54582,10.69856,0
+            122.54566,10.69852,0
+            122.5455,10.69844,0
+            122.5453,10.69836,0
+            122.54493,10.69817,0
+            122.54454,10.69796,0
             122.54409,10.69774,0
             122.54408,10.69773,0
             122.54341,10.69734,0
@@ -7085,13 +7357,22 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Bito-on - Jaro via Balabago Loop</name>
-        <description>Metropolis East Entrance, Coastal Rd., Balabago Rd., MacArthur Dr., Simon Ledesma St., Lopez Jaena St., Rizal St. (Jaro Plaza), Washington St., MacArthur Dr., Balabago Rd., Coastal Rd., Metropolis East Entrance</description>
+        <name>16 | Bito-on - Jaro via Balabago Loop</name>
+        <description><![CDATA[Metropolis East Entrance, Coastal Rd., Balabago Rd., MacArthur Dr., Simon Ledesma St., Lopez Jaena St., Rizal St. (Jaro Plaza), Washington St., MacArthur Dr., Balabago Rd., Coastal Rd., Metropolis East Entrance<br><br>[OLD ROUTE: Jaro - Balabago/Bito-on]]]></description>
         <styleUrl>#line-FFEA00-5000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
-            122.59072,10.75311,0
+            122.58885,10.75448,0
+            122.58877,10.75453,0
+            122.58856,10.75468,0
+            122.58852,10.75461,0
+            122.58897,10.7543,0
+            122.58949,10.75398,0
+            122.58984,10.75378,0
+            122.59055,10.75334,0
+            122.5907,10.75325,0
+            122.5908,10.75319,0
             122.59044,10.75283,0
             122.59003,10.75246,0
             122.58988,10.75226,0
@@ -7164,11 +7445,23 @@
             122.56384,10.73152,0
             122.56255,10.7307,0
             122.56242,10.73061,0
-            122.56161,10.73011,0
-            122.5605,10.72941,0
-            122.55989,10.72978,0
-            122.55934,10.7301,0
-            122.55925,10.73014,0
+            122.56217,10.73087,0
+            122.56208,10.73098,0
+            122.56198,10.73112,0
+            122.56186,10.73124,0
+            122.56142,10.73154,0
+            122.56107,10.7318,0
+            122.56091,10.7319,0
+            122.56038,10.73229,0
+            122.56017,10.73246,0
+            122.56009,10.73251,0
+            122.56002,10.73254,0
+            122.55997,10.73256,0
+            122.55996,10.73253,0
+            122.55986,10.73226,0
+            122.55967,10.73167,0
+            122.55951,10.73117,0
+            122.55937,10.73075,0
             122.55917,10.73018,0
             122.5591,10.73004,0
             122.55881,10.72983,0
@@ -7227,11 +7520,23 @@
             122.55901,10.72968,0
             122.5591,10.73004,0
             122.55917,10.73018,0
-            122.55925,10.73014,0
-            122.55934,10.7301,0
-            122.55989,10.72978,0
-            122.5605,10.72941,0
-            122.56161,10.73011,0
+            122.55937,10.73075,0
+            122.55951,10.73117,0
+            122.55967,10.73167,0
+            122.55986,10.73226,0
+            122.55996,10.73253,0
+            122.55997,10.73256,0
+            122.56002,10.73254,0
+            122.56009,10.73251,0
+            122.56017,10.73246,0
+            122.56038,10.73229,0
+            122.56091,10.7319,0
+            122.56107,10.7318,0
+            122.56142,10.73154,0
+            122.56186,10.73124,0
+            122.56198,10.73112,0
+            122.56208,10.73098,0
+            122.56217,10.73087,0
             122.56242,10.73061,0
             122.56255,10.7307,0
             122.56384,10.73152,0
@@ -7303,13 +7608,22 @@
             122.58988,10.75226,0
             122.59003,10.75246,0
             122.59044,10.75283,0
-            122.59072,10.75311,0
+            122.5908,10.75319,0
+            122.59085,10.75327,0
+            122.59075,10.75333,0
+            122.5906,10.75341,0
+            122.59039,10.75352,0
+            122.58993,10.75382,0
+            122.58987,10.75385,0
+            122.58954,10.75405,0
+            122.58903,10.75437,0
+            122.58883,10.7545,0
           </coordinates>
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Villa Baybay - Iloilo City Proper via Bonifacio</name>
-        <description>Total Gas Sta. (Yulo), Baluarte Calumpang-Villa-Oton Blvd., Sto. Domingo St., Bonifacio St., Quezon St., Avanceña St., Locsin St., MH del Pilar St., Gen. Luna St., Quezon St., Rizal St., Ortiz St., JM Basa St., Rizal St., Quezon St., Delgado St., Mabini St., Gen. Luna St., MH del Pilar St., San Pedro St., Avanceña St., Quezon St., Bonifacio St., Sto. Domingo St., Baluarte Calumpang-Villa-Oton Blvd., Total Gas Sta. (Yulo)</description>
+        <name>17 | Villa Baybay - Iloilo City Proper via Bonifacio</name>
+        <description><![CDATA[Total Gas Sta. (Yulo), Baluarte Calumpang-Villa-Oton Blvd., Sto. Domingo St., Bonifacio St., Quezon St., Avanceña St., Locsin St., MH del Pilar St., Gen. Luna St., Quezon St., Rizal St., Ortiz St., JM Basa St., Rizal St., Quezon St., Delgado St., Mabini St., Gen. Luna St., MH del Pilar St., San Pedro St., Avanceña St., Quezon St., Bonifacio St., Sto. Domingo St., Baluarte Calumpang-Villa-Oton Blvd., Total Gas Sta. (Yulo)<br><br>[OLD ROUTE: Villa Arevalo Sta. Cruz Baybay]]]></description>
         <styleUrl>#line-AFB42B-5000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -7985,7 +8299,7 @@
     <Folder>
       <name>New PUV Routes</name>
       <Placemark>
-        <name>Tagbak - Lapuz via Coastal Loop</name>
+        <name>18 | Tagbak - Lapuz via Coastal Loop</name>
         <description>Tagbak Terminal, MacArthur Dr., Iloilo Circumferential (C-1) Rd., Coastal Rd., Lapuz-Mansaya-Loboc Rd., Rizal St., Muelle Loney Br., Muelle Loney St., Quirino Lopez Br., Rizal St., Lapuz-Mansaya-Loboc Rd., Coastal Rd., Circumferential (C-1) Rd., MacArthur Dr., Tagbak Terminal</description>
         <styleUrl>#line-C5E1A5-5000</styleUrl>
         <LineString>
@@ -8256,23 +8570,73 @@
             122.57032,10.70643,0
             122.56961,10.70699,0
             122.56918,10.70726,0
-            122.56912,10.70666,0
-            122.5691,10.70648,0
-            122.56889,10.7057,0
-            122.56871,10.70516,0
-            122.56869,10.70501,0
-            122.56869,10.70494,0
-            122.56871,10.70483,0
-            122.56871,10.7048,0
-            122.56874,10.70472,0
-            122.56896,10.70422,0
-            122.56904,10.70395,0
-            122.56906,10.70384,0
-            122.56933,10.70304,0
-            122.56943,10.70277,0
-            122.56953,10.7025,0
-            122.56964,10.70222,0
-            122.56977,10.70176,0
+            122.56917,10.70731,0
+            122.56861,10.70776,0
+            122.56839,10.70755,0
+            122.56816,10.70737,0
+            122.56807,10.70731,0
+            122.568,10.70726,0
+            122.56789,10.7072,0
+            122.56769,10.70712,0
+            122.56741,10.70702,0
+            122.56728,10.70698,0
+            122.56734,10.7068,0
+            122.5674,10.70663,0
+            122.56741,10.70658,0
+            122.56749,10.70637,0
+            122.56752,10.70627,0
+            122.56769,10.70575,0
+            122.56786,10.70521,0
+            122.5679,10.70507,0
+            122.56791,10.70498,0
+            122.56793,10.70469,0
+            122.56793,10.70465,0
+            122.56793,10.70452,0
+            122.56796,10.70408,0
+            122.56797,10.70383,0
+            122.56799,10.70356,0
+            122.56804,10.70323,0
+            122.56806,10.70303,0
+            122.56807,10.70298,0
+            122.5681,10.70265,0
+            122.5681,10.70261,0
+            122.56814,10.70224,0
+            122.56816,10.7021,0
+            122.56828,10.70183,0
+            122.5684,10.70171,0
+            122.56846,10.70168,0
+            122.56885,10.70157,0
+            122.56895,10.70155,0
+            122.56898,10.70154,0
+            122.56902,10.70153,0
+            122.56902,10.70152,0
+            122.56903,10.70152,0
+            122.56903,10.70151,0
+            122.56903,10.7015,0
+            122.56904,10.7015,0
+            122.56904,10.70149,0
+            122.56905,10.70148,0
+            122.56906,10.70148,0
+            122.56906,10.70147,0
+            122.56907,10.70147,0
+            122.56908,10.70146,0
+            122.56909,10.70146,0
+            122.5691,10.70146,0
+            122.56911,10.70146,0
+            122.56912,10.70146,0
+            122.56913,10.70146,0
+            122.56914,10.70146,0
+            122.56915,10.70146,0
+            122.56916,10.70146,0
+            122.56916,10.70147,0
+            122.56917,10.70147,0
+            122.56918,10.70148,0
+            122.56919,10.70148,0
+            122.56919,10.70149,0
+            122.5692,10.70149,0
+            122.5692,10.7015,0
+            122.56921,10.70151,0
+            122.56921,10.70152,0
             122.56979,10.70169,0
             122.5699,10.70172,0
             122.57025,10.70183,0
@@ -8535,7 +8899,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Bito-on - La Paz via Coastal Loop</name>
+        <name>19 | Bito-on - La Paz via Coastal Loop</name>
         <description>Metropolis Ave., Coastal Rd., Baldoza St., Lopez Jaena St., Jereos St., Huervana Ext., Burgos St., Huervana St., Lopez Jaena St., Baldoza St., Coastal Rd., Metropolis Ave.</description>
         <styleUrl>#line-87CEAC-5000</styleUrl>
         <LineString>
@@ -8616,55 +8980,51 @@
             122.57898,10.71982,0
             122.57891,10.71881,0
             122.57892,10.7187,0
-            122.58026,10.71724,0
-            122.5803,10.7172,0
-            122.5804,10.7171,0
-            122.58076,10.71669,0
-            122.58083,10.71659,0
-            122.58086,10.71652,0
-            122.58087,10.71649,0
-            122.58088,10.71645,0
-            122.58088,10.71641,0
-            122.58089,10.71637,0
-            122.58089,10.71595,0
-            122.58089,10.7159,0
-            122.5809,10.71588,0
-            122.5809,10.71585,0
-            122.5809,10.71583,0
-            122.58091,10.71581,0
-            122.58091,10.71579,0
-            122.58092,10.71577,0
-            122.58093,10.71575,0
-            122.58097,10.71571,0
-            122.58145,10.71516,0
-            122.58152,10.71501,0
-            122.58153,10.71496,0
-            122.58154,10.71492,0
-            122.58154,10.71487,0
-            122.58151,10.71459,0
-            122.58145,10.71404,0
-            122.58144,10.71399,0
-            122.58144,10.71391,0
-            122.58117,10.71389,0
-            122.58098,10.71387,0
-            122.58049,10.71383,0
-            122.57981,10.71375,0
-            122.57963,10.71373,0
-            122.57928,10.71372,0
-            122.579,10.71373,0
-            122.57871,10.71375,0
-            122.57865,10.71375,0
-            122.57804,10.7138,0
-            122.57742,10.71385,0
-            122.577,10.71388,0
-            122.57658,10.71392,0
-            122.57626,10.71394,0
-            122.57617,10.71395,0
-            122.57608,10.71396,0
-            122.57603,10.71398,0
-            122.576,10.71398,0
-            122.57594,10.71402,0
-            122.57576,10.71413,0
+            122.5789,10.71863,0
+            122.57889,10.71853,0
+            122.57886,10.71822,0
+            122.57881,10.71799,0
+            122.57876,10.71784,0
+            122.57866,10.71765,0
+            122.57863,10.71761,0
+            122.5786,10.71758,0
+            122.57859,10.71758,0
+            122.57855,10.71756,0
+            122.5783,10.71762,0
+            122.57786,10.71777,0
+            122.57748,10.7179,0
+            122.57732,10.71796,0
+            122.57721,10.71799,0
+            122.57713,10.71801,0
+            122.57711,10.71802,0
+            122.57708,10.71801,0
+            122.57706,10.71801,0
+            122.57704,10.71801,0
+            122.57702,10.718,0
+            122.57701,10.71799,0
+            122.57699,10.71798,0
+            122.57697,10.71796,0
+            122.57696,10.71795,0
+            122.57695,10.71793,0
+            122.57694,10.71791,0
+            122.57691,10.71785,0
+            122.57687,10.71766,0
+            122.57679,10.71731,0
+            122.57669,10.71696,0
+            122.57654,10.71647,0
+            122.57654,10.71644,0
+            122.57649,10.71624,0
+            122.57645,10.7161,0
+            122.57644,10.71579,0
+            122.57643,10.71571,0
+            122.57642,10.71569,0
+            122.57637,10.7156,0
+            122.57633,10.71555,0
+            122.57625,10.71546,0
+            122.57613,10.71534,0
+            122.57576,10.71493,0
+            122.57564,10.71475,0
+            122.57539,10.71443,0
             122.57551,10.7143,0
             122.57455,10.71357,0
             122.57433,10.7134,0
@@ -8704,55 +9064,51 @@
             122.57433,10.7134,0
             122.57455,10.71357,0
             122.57551,10.7143,0
-            122.57576,10.71413,0
-            122.57594,10.71402,0
-            122.576,10.71398,0
-            122.57603,10.71398,0
-            122.57608,10.71396,0
-            122.57617,10.71395,0
-            122.57626,10.71394,0
-            122.57658,10.71392,0
-            122.577,10.71388,0
-            122.57742,10.71385,0
-            122.57804,10.7138,0
-            122.57865,10.71375,0
-            122.57871,10.71375,0
-            122.579,10.71373,0
-            122.57928,10.71372,0
-            122.57963,10.71373,0
-            122.57981,10.71375,0
-            122.58049,10.71383,0
-            122.58098,10.71387,0
-            122.58117,10.71389,0
-            122.58144,10.71391,0
-            122.58144,10.71399,0
-            122.58145,10.71404,0
-            122.58151,10.71459,0
-            122.58154,10.71487,0
-            122.58154,10.71492,0
-            122.58153,10.71496,0
-            122.58152,10.71501,0
-            122.58145,10.71516,0
-            122.58097,10.71571,0
-            122.58093,10.71575,0
-            122.58092,10.71577,0
-            122.58091,10.71579,0
-            122.58091,10.71581,0
-            122.5809,10.71583,0
-            122.5809,10.71585,0
-            122.5809,10.71588,0
-            122.58089,10.7159,0
-            122.58089,10.71595,0
-            122.58089,10.71637,0
-            122.58088,10.71641,0
-            122.58088,10.71645,0
-            122.58087,10.71649,0
-            122.58086,10.71652,0
-            122.58083,10.71659,0
-            122.58076,10.71669,0
-            122.5804,10.7171,0
-            122.5803,10.7172,0
-            122.58026,10.71724,0
+            122.57539,10.71443,0
+            122.57564,10.71475,0
+            122.57576,10.71493,0
+            122.57613,10.71534,0
+            122.57625,10.71546,0
+            122.57633,10.71555,0
+            122.57637,10.7156,0
+            122.57642,10.71569,0
+            122.57643,10.71571,0
+            122.57644,10.71579,0
+            122.57645,10.7161,0
+            122.57649,10.71624,0
+            122.57654,10.71644,0
+            122.57654,10.71647,0
+            122.57669,10.71696,0
+            122.57679,10.71731,0
+            122.57687,10.71766,0
+            122.57691,10.71785,0
+            122.57694,10.71791,0
+            122.57695,10.71793,0
+            122.57696,10.71795,0
+            122.57697,10.71796,0
+            122.57699,10.71798,0
+            122.57701,10.71799,0
+            122.57702,10.718,0
+            122.57704,10.71801,0
+            122.57706,10.71801,0
+            122.57708,10.71801,0
+            122.57711,10.71802,0
+            122.57713,10.71801,0
+            122.57721,10.71799,0
+            122.57732,10.71796,0
+            122.57748,10.7179,0
+            122.57786,10.71777,0
+            122.5783,10.71762,0
+            122.57855,10.71756,0
+            122.57859,10.71758,0
+            122.5786,10.71758,0
+            122.57863,10.71761,0
+            122.57866,10.71765,0
+            122.57876,10.71784,0
+            122.57881,10.71799,0
+            122.57886,10.71822,0
+            122.57889,10.71853,0
+            122.5789,10.71863,0
             122.57892,10.7187,0
             122.57891,10.71881,0
             122.57898,10.71982,0
@@ -8836,7 +9192,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Villa - Jaro via Sooc/Oñate/Festive Walk Transport Hub</name>
+        <name>20 | Villa - Jaro via Sooc/Oñate/Festive Walk Transport Hub</name>
         <description>Arevalo Plaza, Quezon St., Jocson St., Sooc Resettlement Rd,. Calajunan Rd., Oñate St., Abeto St., Megaworld Blvd., Festive Walk Transport Hub, Taft St., El-98 St., Rizal St. (Jaro Plaza), M. Jalandoni Burgos Sts. (Cathedral), El-98 St., Taft St., Abeto St,. Perfecto St. (Mandurriao Church), Oñate St., Calajunan Rd., Sooc Resettlement Rd., Jocson St., Arevalo Plaza</description>
         <styleUrl>#line-B2EBF2-5000</styleUrl>
         <LineString>
@@ -8854,75 +9210,92 @@
             122.52011,10.68745,0
             122.52124,10.68758,0
             122.52155,10.68761,0
-            122.52161,10.68762,0
-            122.52175,10.68763,0
-            122.52192,10.68766,0
-            122.52238,10.68773,0
-            122.52264,10.68777,0
-            122.52341,10.68794,0
-            122.52456,10.68819,0
-            122.52502,10.68828,0
-            122.52654,10.68856,0
-            122.52658,10.68857,0
-            122.52666,10.68858,0
-            122.52672,10.68861,0
-            122.52676,10.68863,0
-            122.52679,10.68864,0
-            122.52683,10.68867,0
-            122.52687,10.68873,0
-            122.52621,10.68885,0
-            122.52568,10.68894,0
-            122.52534,10.68899,0
-            122.52511,10.68902,0
-            122.52508,10.68902,0
-            122.52492,10.68904,0
-            122.5248,10.68905,0
-            122.52461,10.68905,0
-            122.52437,10.68906,0
-            122.52395,10.68906,0
-            122.52366,10.68905,0
-            122.52301,10.68903,0
-            122.52273,10.68901,0
-            122.52169,10.68897,0
+            122.5215,10.6881,0
+            122.52149,10.68818,0
             122.5214,10.68896,0
             122.5211,10.68895,0
-            122.52102,10.6898,0
-            122.52085,10.6913,0
-            122.52072,10.69201,0
-            122.52068,10.69223,0
-            122.52065,10.69247,0
-            122.52062,10.69271,0
-            122.52064,10.69288,0
-            122.52066,10.69301,0
-            122.5208,10.69342,0
-            122.52099,10.69389,0
-            122.52127,10.69467,0
-            122.5215,10.69524,0
-            122.52177,10.69594,0
-            122.52179,10.69598,0
-            122.52181,10.69604,0
-            122.52184,10.69611,0
-            122.5221,10.69687,0
-            122.52236,10.69765,0
-            122.52242,10.69783,0
-            122.52277,10.69879,0
-            122.52296,10.69925,0
-            122.52299,10.69934,0
-            122.52306,10.69957,0
-            122.52312,10.69979,0
-            122.52314,10.69999,0
-            122.52311,10.70012,0
-            122.52308,10.70025,0
-            122.52301,10.70043,0
-            122.52292,10.70056,0
-            122.52283,10.70066,0
-            122.52273,10.70074,0
-            122.52257,10.70083,0
-            122.52244,10.70089,0
-            122.52235,10.70093,0
-            122.522,10.70105,0
-            122.52176,10.70113,0
-            122.52163,10.70117,0
+            122.52089,10.68895,0
+            122.52072,10.68895,0
+            122.51985,10.68894,0
+            122.51955,10.68894,0
+            122.51947,10.68894,0
+            122.51826,10.68891,0
+            122.51824,10.68934,0
+            122.51822,10.68972,0
+            122.51819,10.68976,0
+            122.51817,10.68978,0
+            122.51815,10.6898,0
+            122.51813,10.68982,0
+            122.51811,10.68984,0
+            122.51809,10.68986,0
+            122.51806,10.68991,0
+            122.51804,10.68996,0
+            122.51803,10.69,0
+            122.51802,10.69001,0
+            122.51801,10.69004,0
+            122.51801,10.69006,0
+            122.51801,10.69009,0
+            122.51801,10.69013,0
+            122.51803,10.6902,0
+            122.51808,10.69048,0
+            122.5181,10.69066,0
+            122.51813,10.69084,0
+            122.51813,10.69087,0
+            122.51814,10.69105,0
+            122.51813,10.69126,0
+            122.51811,10.69145,0
+            122.51808,10.69163,0
+            122.51805,10.69177,0
+            122.51795,10.69214,0
+            122.51793,10.69221,0
+            122.51787,10.69238,0
+            122.51775,10.69274,0
+            122.51768,10.69296,0
+            122.51763,10.69307,0
+            122.51762,10.69317,0
+            122.51762,10.6933,0
+            122.51762,10.69341,0
+            122.51765,10.69349,0
+            122.5177,10.69358,0
+            122.51776,10.69371,0
+            122.51782,10.69388,0
+            122.51784,10.69401,0
+            122.51783,10.69424,0
+            122.51783,10.69428,0
+            122.51782,10.69468,0
+            122.51783,10.69489,0
+            122.51788,10.69508,0
+            122.51794,10.69521,0
+            122.51799,10.69532,0
+            122.51801,10.69547,0
+            122.51801,10.69555,0
+            122.51798,10.69567,0
+            122.51793,10.69593,0
+            122.51777,10.69679,0
+            122.51773,10.69702,0
+            122.51771,10.69719,0
+            122.51771,10.69731,0
+            122.51772,10.69742,0
+            122.51776,10.69754,0
+            122.51777,10.69765,0
+            122.51778,10.69774,0
+            122.51779,10.69782,0
+            122.5178,10.69785,0
+            122.51781,10.69789,0
+            122.51785,10.69795,0
+            122.51788,10.69798,0
+            122.51795,10.69804,0
+            122.51804,10.6981,0
+            122.51826,10.69826,0
+            122.51842,10.69836,0
+            122.51923,10.69903,0
+            122.51935,10.69916,0
+            122.5202,10.69998,0
+            122.52047,10.70021,0
+            122.52076,10.70044,0
+            122.52079,10.70048,0
+            122.5209,10.70059,0
+            122.52114,10.70089,0
             122.52144,10.70124,0
             122.52154,10.70135,0
             122.52181,10.70163,0
@@ -9346,49 +9719,82 @@
             122.52181,10.70163,0
             122.52154,10.70135,0
             122.52144,10.70124,0
-            122.52163,10.70117,0
-            122.52176,10.70113,0
-            122.522,10.70105,0
-            122.52235,10.70093,0
-            122.52244,10.70089,0
-            122.52257,10.70083,0
-            122.52273,10.70074,0
-            122.52283,10.70066,0
-            122.52292,10.70056,0
-            122.52301,10.70043,0
-            122.52308,10.70025,0
-            122.52311,10.70012,0
-            122.52314,10.69999,0
-            122.52312,10.69979,0
-            122.52306,10.69957,0
-            122.52299,10.69934,0
-            122.52296,10.69925,0
-            122.52277,10.69879,0
-            122.52242,10.69783,0
-            122.52236,10.69765,0
-            122.5221,10.69687,0
-            122.52184,10.69611,0
-            122.52181,10.69604,0
-            122.52179,10.69598,0
-            122.52177,10.69594,0
-            122.5215,10.69524,0
-            122.52127,10.69467,0
-            122.52099,10.69389,0
-            122.5208,10.69342,0
-            122.52066,10.69301,0
-            122.52064,10.69288,0
-            122.52062,10.69271,0
-            122.52065,10.69247,0
-            122.52068,10.69223,0
-            122.52072,10.69201,0
-            122.52085,10.6913,0
-            122.52102,10.6898,0
-            122.5211,10.68895,0
-            122.52089,10.68895,0
-            122.52072,10.68895,0
-            122.51985,10.68894,0
-            122.51955,10.68894,0
-            122.51947,10.68894,0
+            122.52114,10.70089,0
+            122.5209,10.70059,0
+            122.52079,10.70048,0
+            122.52076,10.70044,0
+            122.52047,10.70021,0
+            122.5202,10.69998,0
+            122.51935,10.69916,0
+            122.51923,10.69903,0
+            122.51842,10.69836,0
+            122.51826,10.69826,0
+            122.51804,10.6981,0
+            122.51795,10.69804,0
+            122.51788,10.69798,0
+            122.51785,10.69795,0
+            122.51781,10.69789,0
+            122.5178,10.69785,0
+            122.51779,10.69782,0
+            122.51778,10.69774,0
+            122.51777,10.69765,0
+            122.51776,10.69754,0
+            122.51772,10.69742,0
+            122.51771,10.69731,0
+            122.51771,10.69719,0
+            122.51773,10.69702,0
+            122.51777,10.69679,0
+            122.51793,10.69593,0
+            122.51798,10.69567,0
+            122.51801,10.69555,0
+            122.51801,10.69547,0
+            122.51799,10.69532,0
+            122.51794,10.69521,0
+            122.51788,10.69508,0
+            122.51783,10.69489,0
+            122.51782,10.69468,0
+            122.51783,10.69428,0
+            122.51783,10.69424,0
+            122.51784,10.69401,0
+            122.51782,10.69388,0
+            122.51776,10.69371,0
+            122.5177,10.69358,0
+            122.51765,10.69349,0
+            122.51762,10.69341,0
+            122.51762,10.6933,0
+            122.51762,10.69317,0
+            122.51763,10.69307,0
+            122.51768,10.69296,0
+            122.51775,10.69274,0
+            122.51787,10.69238,0
+            122.51793,10.69221,0
+            122.51795,10.69214,0
+            122.51805,10.69177,0
+            122.51808,10.69163,0
+            122.51811,10.69145,0
+            122.51813,10.69126,0
+            122.51814,10.69105,0
+            122.51813,10.69087,0
+            122.51813,10.69084,0
+            122.5181,10.69066,0
+            122.51808,10.69048,0
+            122.51803,10.6902,0
+            122.51801,10.69013,0
+            122.51801,10.69009,0
+            122.51801,10.69006,0
+            122.51801,10.69004,0
+            122.51802,10.69001,0
+            122.51803,10.69,0
+            122.51804,10.68996,0
+            122.51806,10.68991,0
+            122.51809,10.68986,0
+            122.51811,10.68984,0
+            122.51813,10.68982,0
+            122.51815,10.6898,0
+            122.51817,10.68978,0
+            122.51819,10.68976,0
+            122.51822,10.68972,0
+            122.51824,10.68934,0
             122.51826,10.68891,0
             122.51824,10.68891,0
             122.51788,10.6889,0
@@ -9403,7 +9809,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Tagbak - Festive Wak Transport Hub via SM City/Atria</name>
+        <name>21 | Tagbak - Festive Wak Transport Hub via SM City/Atria</name>
         <description>Tagbak Terminal, MacArthur Dr., Simon Ledesma St., Lopez Jaena St., Rizal St. (Jaro Plaza), El-98 St., Diversion Rd., SM City, Pison Ave., R. Mapa St., Megaworld Blvd., Festive Walk Transport Hub, Taft St., Diversion Rd., El-98 St., Rizal St. (Jaro Plaza), Washington St., MacArthur Dr., Tagbak Terminal</description>
         <styleUrl>#line-A1C2FA-5000</styleUrl>
         <LineString>
@@ -9831,8 +10237,8 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Ungka - La Paz via CPU - ISATU Loop</name>
-        <description>Ungka Terminal, Diversion Rd., Lopez Jaena St., Rizal St. (Jaro Plaza), Commission Civil St., Burgos St., Huervana St., Rizal St., Arroyo St., Magdalo St., Burgos St., Commission Civil St., Washington St., Democracia St., Simon Ledesma St., Lopez Jaena St., Diversion Rd., Ungka Terminal</description>
+        <name>22 | Ungka - La Paz via CPU - ISATU Loop</name>
+        <description><![CDATA[Ungka Terminal, Diversion Rd., Lopez Jaena St., Rizal St. (Jaro Plaza), Commission Civil St., Burgos St., Huervana St., Rizal St., Arroyo St., Magdalo St., Burgos St., Commission Civil St., Washington St., Democracia St., Simon Ledesma St., Lopez Jaena St., Diversion Rd., Ungka Terminal<br><br>[OLD ROUTE: Pavia - La Paz]]]></description>
         <styleUrl>#line-9FA8DA-5000</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
@@ -10194,7 +10600,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>Mohon - Mandurriao Business District</name>
+        <name>23 | Mohon - Mandurriao Business District</name>
         <description>Mohon Terminal, Osmeña St., Jocson St., Avanceña St., Locsin St., R. Mapa St., Megaworld Blvd., Diversion Rd., Pison Ave., R. Mapa St., Avanceña St., Jocson St., Osmeña St., Mohon Terminal</description>
         <styleUrl>#line-CE93D8-5000</styleUrl>
         <LineString>
@@ -10701,7 +11107,7 @@
         </LineString>
       </Placemark>
       <Placemark>
-        <name>La Paz - Festive Walk Transport Hub via Nabitasan Loop</name>
+        <name>24 | La Paz - Festive Walk Transport Hub via Nabitasan Loop</name>
         <description>La Paz Plaza, Huervana Ext., Burgos St., Arroyo St., Hechanova St., Iloilo River Blvd., Service (Diversion) Rd., Diversion Rd., Pison Ave., R. Mapa St., Megaworld Blvd., Festive Walk Transport Hub, Megaworld Blvd., Airport Spur Rd., Diversion Rd., Gaisano Iloilo City Ctr. Loop, Service (Diversion) Rd., Iloilo River Blvd., Hechanova St., Luna St., Huervana St., La Paz Plaza</description>
         <styleUrl>#line-BCAAA4-5000</styleUrl>
         <LineString>
@@ -10925,29 +11331,48 @@
             122.54644,10.71646,0
             122.5466,10.71672,0
             122.54671,10.71688,0
-            122.54682,10.71703,0
-            122.54702,10.71732,0
-            122.54716,10.71749,0
-            122.54727,10.71763,0
-            122.54743,10.71784,0
-            122.5476,10.7181,0
-            122.54763,10.71814,0
-            122.54773,10.71831,0
-            122.54784,10.71855,0
-            122.54807,10.71857,0
-            122.5485,10.71861,0
-            122.54875,10.71863,0
-            122.54918,10.71868,0
-            122.54983,10.71874,0
-            122.54999,10.71876,0
-            122.55008,10.71877,0
-            122.55014,10.71878,0
-            122.55021,10.7188,0
-            122.5504,10.71886,0
-            122.55058,10.71892,0
-            122.55103,10.71909,0
-            122.55139,10.71923,0
-            122.55199,10.71946,0
+            122.54666,10.71693,0
+            122.54698,10.71735,0
+            122.54706,10.71745,0
+            122.54721,10.71764,0
+            122.54732,10.71779,0
+            122.54755,10.71814,0
+            122.54769,10.71837,0
+            122.54775,10.71849,0
+            122.54778,10.71854,0
+            122.54807,10.71918,0
+            122.54833,10.71973,0
+            122.54885,10.72086,0
+            122.5491,10.72144,0
+            122.54915,10.72162,0
+            122.54915,10.72186,0
+            122.54912,10.72203,0
+            122.54906,10.72221,0
+            122.54899,10.72245,0
+            122.54896,10.72255,0
+            122.54893,10.72268,0
+            122.5489,10.72283,0
+            122.54891,10.72303,0
+            122.54894,10.72319,0
+            122.54902,10.7235,0
+            122.54907,10.72371,0
+            122.54914,10.72402,0
+            122.54915,10.72406,0
+            122.54917,10.72416,0
+            122.54926,10.7245,0
+            122.54929,10.72458,0
+            122.54932,10.72463,0
+            122.54933,10.72466,0
+            122.54936,10.72469,0
+            122.54954,10.7249,0
+            122.54975,10.72453,0
+            122.55,10.72408,0
+            122.55016,10.72375,0
+            122.55052,10.72304,0
+            122.55105,10.72188,0
+            122.55131,10.72131,0
+            122.55148,10.72094,0
+            122.5518,10.72025,0
             122.55212,10.7195,0
             122.55219,10.71935,0
             122.55225,10.71919,0
